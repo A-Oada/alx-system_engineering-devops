@@ -1,2 +1,2 @@
 #!/bin/bash
- ls -axmp . */; echo -e '\n'
+ls -axmp . */

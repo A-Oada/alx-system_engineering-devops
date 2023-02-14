@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -not -path '*/.*' -empty -printf "%f\n"

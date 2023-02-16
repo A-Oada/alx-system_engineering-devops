@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "PATH=$PATH:/action\nexport PATH"
+echo -e "PATH=$PATH:/action\nexport PATH" >> /etc/profile
